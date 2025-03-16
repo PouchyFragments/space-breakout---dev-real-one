@@ -1,0 +1,58 @@
+{
+    "name": "Space Breakout - Dev (Real one)",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "arcade-text": "github:microsoft/arcade-text#v1.3.0",
+        "Color Fading": "github:jwunderl/pxt-color#v0.2.3",
+        "arcade-story": "github:microsoft/arcade-storytelling#v1.0.3",
+        "pxt-countup": "github:shakao/pxt-countup#v0.0.2",
+        "multiplayer": "*",
+        "Achievements": "github:meeeeeeeep1/achievements#4910ba22f82f73691752a6af29ed23215662723a",
+        "arcade-character-animations": "github:microsoft/arcade-character-animations#v0.0.2",
+        "Extra Effects": "github:alexszeto/extra-effects#v3.1.0",
+        "Custom Keybind Extension": "github:Brohann3214/custom-keybind-extension#ce1cb5acda5cd438592e38da4aaab10b73b46c64",
+        "Makey Makey Keymappings": "github:joylabz/makeymakey-makecode-arcade-extension#1.0.3",
+        "ArcadeMIDI": "github:UnsignedArduino/ArcadeMIDI#af121437d59fd6b2cec54501ac437db1eaa766f5",
+        "carnival": "github:microsoft/arcade-carnival#v0.0.7",
+        "block-menu": "github:riknoll/arcade-custom-menu#v0.0.1",
+        "arcade-soundtrack": "github:livcheerful/arcade-soundtrack#v1.0.5",
+        "arcade-multicamera": "github:49dev/pxt-multicamera#a94853f1523613be250fda3b995f814e95733898",
+        "arcade-screen-transitions": "github:riknoll/arcade-screen-transitions#v0.1.0",
+        "Inventory": "github:UnsignedArduino/Inventory#v1.1.1",
+        "arcade-mini-menu": "github:riknoll/arcade-mini-menu#v0.0.1",
+        "Modes by Unique": "github:projectsbyunique/modes#v2.0.0",
+        "Songs": "github:D4ngerKitty/RPGMuisic#f26c7df84609da0be7af7e16d2a64dcd095c1716",
+        "arcade-dj": "github:riknoll/arcade-dj#v0.0.1",
+        "sound effects": "github:klausw3/pxt-sound-effects#v1.2.0",
+        "arcade-shadowcasting": "github:riknoll/arcade-shadowcasting#v0.0.4",
+        "pxt-rtttl": "github:pelikhan/pxt-rtttl#v0.0.12",
+        "pxt-clock": "github:Blobbey2000/pxt-clock#v1.10.4",
+        "pxt-sight": "github:felixtsu/pxt-sight#v0.2.2",
+        "Declutter": "github:sargedev/declutter#6b0626bf1bd2c7d9a70b846031b5226e48ee932a",
+        "ELO Extension": "github:sargedev/elo#416aa576bfc7a766fd1842f4826cdbeebe99c2e4",
+        "Musical-Images": "github:UnsignedArduino/Musical-Images#v2.1.2",
+        "arcade-fancy-text": "github:riknoll/arcade-fancy-text#v0.1.2"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "tilemap.g.jres",
+        "tilemap.g.ts",
+        "images.g.jres",
+        "images.g.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "1.12.61",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj"
+}
